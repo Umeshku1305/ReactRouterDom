@@ -1,6 +1,9 @@
-pages
+Contact.jsx
+Enquiry.jsx
+Home.jsx
+
 components
-src
+
 # Logs
 logs
 *.log
